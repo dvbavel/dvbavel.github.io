@@ -1,5 +1,9 @@
 [
   {
+    "icon": "fa-github",
+    "link": "https://www.github.com/dvbavel"
+  },
+  {
     "icon": "fa-twitter",
     "link": "https://www.twitter.com/dvbavel"
   },
