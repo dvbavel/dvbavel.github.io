@@ -1,3 +1,19 @@
+.icon {
+    background: rgba(255, 255, 255, 0.63);
+    border-radius: 100%;
+    text-align: center;
+    line-height: 20px;
+    font-size: 20px;
+    color: #009688;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+}
+.icon:hover {
+    color: rgba(255, 255, 255, 0.63);
+    background: #009688;
+}
 .social-icons {
     margin: 20px 0 0;
 }
